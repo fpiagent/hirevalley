@@ -1,0 +1,33 @@
+{
+  "name": "hirevalley",
+  "version": "0.0.1",
+  "description": "Interview Buddy API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Team Gauchos",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^8.2.0",
+    "hapi-swagger": "^0.6.2",
+    "hapi-mongodb": "^2.3.0",
+    "boom": "^2.6.1",
+    "joi": "^5.1.0",
+    "deep-diff": "^0.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fpiagent/hirevalley.git"
+  },
+  "keywords": [
+    "hirevalley",
+    "node-js",
+    "single-page"
+  ],
+  "bugs": {
+    "url": "https://github.com/fpiagent/hirevalley/issues"
+  },
+  "homepage": "https://github.com/fpiagent/hirevalley#readme"
+}
